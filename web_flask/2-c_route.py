@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# task 0
 """module web_flask C is fun!"""
 
 from flask import Flask, escape
